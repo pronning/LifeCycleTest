@@ -17,5 +17,6 @@
                                          };
 
         public static string Alphabet = "abcdefghijklmnopqrstuvwxyzæøå";
+
     }
 }
