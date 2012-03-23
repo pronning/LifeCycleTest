@@ -18,7 +18,7 @@
 
         public static string Alphabet = "abcdefghijklmnopqrstuvwxyzæøå";
         
-        public string bugz;
+        //public string bugz;
 
     }
 }
