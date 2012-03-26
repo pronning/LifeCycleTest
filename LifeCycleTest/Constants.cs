@@ -1,4 +1,4 @@
-﻿namespace LifeCycleTest
+namespace LifeCycleTest
 {
     public static class Constants
     {
@@ -17,8 +17,5 @@
                                          };
 
         public static string Alphabet = "abcdefghijklmnopqrstuvwxyzæøå";
-        
-        //public string bugz;
-
     }
 }
