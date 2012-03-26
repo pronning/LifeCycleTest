@@ -1,5 +1,8 @@
 namespace LifeCycleTest
 {
+public class myfeature {}
+
+
     public static class Constants
     {
         public static readonly string[] Fasit = {
