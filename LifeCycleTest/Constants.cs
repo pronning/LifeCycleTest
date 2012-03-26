@@ -1,6 +1,11 @@
+
+
 namespace LifeCycleTest
 {
-public class myfeature {}
+public class myfeature {
+private const string myconst = "";
+
+}
 
 
     public static class Constants
