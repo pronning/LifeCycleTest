@@ -3,7 +3,7 @@
 namespace LifeCycleTest
 {
 public class myfeature {
-private const string myconst = "s3";
+private const string myconst = "s4";
 
 }
 
