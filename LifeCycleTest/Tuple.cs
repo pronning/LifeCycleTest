@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 
 namespace LifeCycleTest
 {
-    class Item<T,TS> : Tuple<T,TS>
+    public class Item<T,TS> : Tuple<T,TS>
     {
         // vs2010
         // open ssh
